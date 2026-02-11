@@ -34,7 +34,7 @@ function update() {
         return;
     }
 
-    context.fillStyle = 'green';
+    context.fillStyle = '#8800FF';
     context.fillRect(0, 0, board.width, board.height);
 
     context.fillStyle = 'yellow';
